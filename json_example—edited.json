@@ -9,6 +9,7 @@
             "admin",
             "user"
 			"operator"
+			"NetworkAdmin"
         ]
     }
 }
